@@ -21,3 +21,5 @@
 # 참조
 https://github.com/gliderwiki/designPattern/blob/master/src/main/java/net/harunote/pattern/adapter/AudioPlayer.java
 - Kotlin 변환
+https://refactoring.guru/ko/design-patterns
+- 각각의 패턴 정리 사이트
